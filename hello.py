@@ -3,4 +3,9 @@
 # A simple Python program to print a message
 
 print("Hello, World!")
-print("Welcome, to GitHub!")
+# Firstname Lastname
+# MM/DD/YYYY
+# Added new message
+
+print("Hello, World!")
+print("Welcome to GitHub!")
